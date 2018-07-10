@@ -1,5 +1,6 @@
 package com.keinen.adapterPattern;
 
+/*
 interface Stack<T> {
     void push(T o);
     T pop();
@@ -36,3 +37,4 @@ class DListImpStack<T> extends DList<T> implements Stack<T> {
 
 public class adapterPattern {
 }
+*/
