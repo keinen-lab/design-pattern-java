@@ -7,6 +7,7 @@ import java.util.EnumSet;
 import java.util.Set;
 import java.util.WeakHashMap;
 
+/*
 enum FontEffect {
     BOLD, ITALIC, SUPERSCRIPT, SUBSCRIPT, STRIKETHROUGH
 }
@@ -65,3 +66,4 @@ public class flyweightPattern {
 
     }
 }
+*/
